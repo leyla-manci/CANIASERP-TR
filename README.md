@@ -1,7 +1,7 @@
 # CANIASERP
 Canias Erp pdf Sources
 
-![Background Image](https://github.com/leyla-manci/CANIASERP/edit/maste/assets/Canias-1.png)
+![Background Image](https://github.com/leyla-manci/CANIASERP/edit/master/assets/Canias-1.png)
 * **Hazırlayan**      : Leyla Akmancı | [leyla.manci@gmail.com](mailto:leyla.manci@gmail.com)
 * **Katkı Sunanlar**  : ---
 * **Version**  : 603,604,802
