@@ -135,7 +135,7 @@ Canias Erp pdf Sources
 * This Expression
 * Qualified this
 
-### Dialogs 🌈
+### Dialogs 🕵️‍
 
 * Life cycle
 * Desing components
