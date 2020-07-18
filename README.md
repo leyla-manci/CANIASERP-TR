@@ -25,18 +25,8 @@ Canias Erp pdf Sources
 * Loop At virtual-tables
 * Collections
 * Creating basic classes and their instances
-
-### Idioms
-
 * Default values for function parameters
 * Filtering a list
-* Checking element presence in a collection
-* String Interpolation
-* Instance Checks
-* Get first item of a possibly empty collection
-* 'if' expression
-* Configuring properties of an object (apply)
-
 
 ***
 
@@ -45,24 +35,9 @@ Canias Erp pdf Sources
 ### Basic Types
 
 * Numbers
-* Literal constants
-* Underscores in numeric literals (since 1.1)
-* Representation
-* Explicit conversions
-* Operations
-* Floating point numbers comparison
-* Characters
 * Booleans
-* Arrays
-* Primitive type arrays
-* Unsigned integers
-* Specialized classes
-* Literals
-* Experimental status of unsigned integers
+* Virtual tables
 * Strings
-* String literals
-* String templates
-
 
 ### Control Flow
 
@@ -72,7 +47,6 @@ Canias Erp pdf Sources
 * While Loops
 * Break and continue in loops
 
-
 ***
 
 # Classes & Objects
@@ -81,24 +55,20 @@ Canias Erp pdf Sources
 
 * Classes
 * Constructors
-* Secondary constructors
 * Creating instances of classes
 * Class members
 * Inheritance
 * Overriding methods
 * Calling the superclass implementation
 
-
-
 ### Visibility Modifiers
 
 * Visibility Modifiers
 * Local declarations
 
-
 ***
 
-# Functions & Lambdas
+# Functions
 
 ### Functions
 
@@ -110,7 +80,6 @@ Canias Erp pdf Sources
 * Function scope
 * Local functions
 * Member functions
-
 
 ***
 
@@ -124,43 +93,24 @@ Canias Erp pdf Sources
 * Tables
 * Map
 
-### Constructing Collections
-
-* Empty collections
-* Copying
-* Invoking functions on other collections
-
-### Iterators
-
-* Iterators
-* List iterators
-
-
-
-
 ### Collection Write Operations
 
 * Adding elements
 * Removing elements
 * Updating elements
 
-### List Specific Operations
+### Virtual-Table Specific Operations
 
-* List Specific Operations
 * Retrieving elements by index
 * Retrieving list parts
 * Finding element positions
 * Linear search
 * Binary search in sorted lists
 * Comparator binary search
-* Comparison binary search
-* List write operations
 * Adding
 * Updating
 * Removing
 * Sorting
-
-
 
 ### Map Specific Operations
 
@@ -171,7 +121,6 @@ Canias Erp pdf Sources
 * Map write operations
 * Adding and updating entries
 * Removing entries
-
 ***
 
 # Others
@@ -186,18 +135,16 @@ Canias Erp pdf Sources
 * This Expression
 * Qualified this
 
-### Equality 🌈
+### Dialogs 🌈
 
-* Equality
-* Structural equality
-* Floating point numbers equality
-* Referential equality
+* Life cycle
+* Desing components
 
 ### Scope Functions
 
 * Scope Functions
 * Return value
-* run
+* runcode command
 
 ***
 
